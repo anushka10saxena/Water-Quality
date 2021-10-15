@@ -114,7 +114,7 @@ class Home extends React.Component {
                             </Link>
                         </div>
                         <div className="col-sm-4 col-md-4 col-8">
-                    <Link to="/ph" >
+                    <Link to="/" >
                         <div id="box" data-aos="zoom-out">
                             <div id="heading">
                                 <h2>Device Id </h2>
@@ -124,7 +124,7 @@ class Home extends React.Component {
                     </Link>
                 </div>
                 <div className="col-sm-4 col-md-4 col-8">
-                    <Link to="/temp">
+                    <Link to="/">
                         <div id="box" data-aos="fade-right">
                             <div id="heading">
                                 <h2>Timestamp</h2>
@@ -134,7 +134,7 @@ class Home extends React.Component {
                     </Link>
                 </div>
                 <div className="col-sm-3 col-md-3 col-6">
-                    <Link to="/ph" >
+                    <Link to="/" >
                         <div id="box" data-aos="zoom-out">
                             <div id="heading">
                                 <h2>PH </h2>
@@ -145,7 +145,7 @@ class Home extends React.Component {
                 </div>
 
                 <div className="col-sm-3 col-md-3 col-6">
-                    <Link to="/td">
+                    <Link to="/">
                         <div id="box" data-aos="zoom-out">
                             <div id="heading">
                                 <h2>TDS </h2>
@@ -158,7 +158,7 @@ class Home extends React.Component {
 
 
                 <div className="col-sm-3 col-md-3 col-6">
-                    <Link to="/temp">
+                    <Link to="/">
                         <div id="box" data-aos="fade-right">
                             <div id="heading">
                                 <h2>Temp.</h2>
@@ -171,7 +171,7 @@ class Home extends React.Component {
 
 
                 <div className="col-sm-3 col-md-3 col-6">
-                    <Link to="/cond">
+                    <Link to="/">
                         <div id="box" data-aos="fade-left">
                             <div id="heading">
                                 <h2>Electroconductivity</h2>
